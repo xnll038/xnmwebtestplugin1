@@ -6,8 +6,7 @@
     "description": "hueta",
     "author": "xnll038",
     "license": "MIT",
-	"JSDependencies": [
+	"dependencies": [
         ["test2", "1.0.0"]
-    ],
-	"CSSDependencies": [],
+    ]
 }
