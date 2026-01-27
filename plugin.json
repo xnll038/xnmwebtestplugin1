@@ -6,11 +6,8 @@
     "description": "hueta",
     "author": "xnll038",
     "license": "MIT",
-    "HTMLPreview": "review.html",
 	"JSDependencies": [
         ["test2", "1.0.0"]
     ],
 	"CSSDependencies": [],
-    "init": "init.js",
-    "destroy": "destroy.js",
 }
