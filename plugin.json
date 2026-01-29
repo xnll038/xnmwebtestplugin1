@@ -1,15 +1,5 @@
 {
-    "id": "test1",
-    "version": "1.0.0",
-    "xnmwebVersion": "1.0.0",
-    "author": "xnll038",
-    "license": "MIT",
-    "title": "Test 1",
-    "description": "Some description",
 	"script": true,
 	"styles": true,
 	"preview": true,
-	"dependencies": [
-        ["test2", "1.0.0"]
-    ]
 }
