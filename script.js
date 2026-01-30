@@ -1,6 +1,6 @@
 export default {
 	init(sandbox, api) {
-		console.log("loaded");
+		console.log("PROVOD");
 	},
 	destroy(sandbox, api) {
 		console.log("unloaded");
